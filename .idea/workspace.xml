@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7114f3f3-50c9-4515-b94a-7e1890309362" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deniz/QueueOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/generic-blocking-queue-OsmanDeniz/com/deniz/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/generic-blocking-queue-OsmanDeniz/com/deniz/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/generic-blocking-queue-OsmanDeniz/org/kodluyoruz/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/generic-blocking-queue-OsmanDeniz/org/kodluyoruz/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/deniz/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/deniz/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/kodluyoruz/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/kodluyoruz/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7114f3f3-50c9-4515-b94a-7e1890309362" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +96,7 @@
       <workItem from="1609600282354" duration="3078000" />
       <workItem from="1609659492996" duration="13000" />
       <workItem from="1609691178121" duration="178000" />
-      <workItem from="1609691502390" duration="1735000" />
+      <workItem from="1609691502390" duration="1982000" />
     </task>
     <task id="LOCAL-00001" summary="Uygulama yazildi ve calisir durumdadir.">
       <created>1609063549264</created>
