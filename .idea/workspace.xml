@@ -20,15 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7114f3f3-50c9-4515-b94a-7e1890309362" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generic-blocking-queue-OsmanDeniz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deniz/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/deniz/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/deniz/QueueOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generic-blocking-queue-OsmanDeniz/com/deniz/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/generic-blocking-queue-OsmanDeniz/com/deniz/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generic-blocking-queue-OsmanDeniz/org/kodluyoruz/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/generic-blocking-queue-OsmanDeniz/org/kodluyoruz/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/deniz/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/deniz/Queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/kodluyoruz/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/kodluyoruz/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +33,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1mEcbQrwl77DA0YULx07DLWEcef" />
   <component name="ProjectViewState">
@@ -49,6 +61,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/deniz" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -83,8 +97,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609062262866</updated>
-      <workItem from="1609062266493" duration="1126000" />
+      <workItem from="1609062266493" duration="3075000" />
+      <workItem from="1609067216261" duration="6000" />
+      <workItem from="1609274977514" duration="190000" />
+      <workItem from="1609506372924" duration="19000" />
+      <workItem from="1609600282354" duration="3078000" />
+      <workItem from="1609659492996" duration="13000" />
+      <workItem from="1609691178121" duration="178000" />
+      <workItem from="1609691502390" duration="1735000" />
     </task>
+    <task id="LOCAL-00001" summary="Uygulama yazildi ve calisir durumdadir.">
+      <created>1609063549264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609063549264</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,23 +129,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1557" height="171" key="GridCell.Tab.0.bottom" timestamp="1609063247617">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state width="1557" height="171" key="GridCell.Tab.0.bottom/0.0.1600.870/1600.0.1360.738@0.0.1600.870" timestamp="1609063247617" />
-    <state width="1557" height="171" key="GridCell.Tab.0.center" timestamp="1609063247617">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state width="1557" height="171" key="GridCell.Tab.0.center/0.0.1600.870/1600.0.1360.738@0.0.1600.870" timestamp="1609063247617" />
-    <state width="1557" height="171" key="GridCell.Tab.0.left" timestamp="1609063247616">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state width="1557" height="171" key="GridCell.Tab.0.left/0.0.1600.870/1600.0.1360.738@0.0.1600.870" timestamp="1609063247616" />
-    <state width="1557" height="171" key="GridCell.Tab.0.right" timestamp="1609063247617">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state width="1557" height="171" key="GridCell.Tab.0.right/0.0.1600.870/1600.0.1360.738@0.0.1600.870" timestamp="1609063247617" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Uygulama yazildi ve calisir durumdadir." />
+    <option name="LAST_COMMIT_MESSAGE" value="Uygulama yazildi ve calisir durumdadir." />
   </component>
 </project>
